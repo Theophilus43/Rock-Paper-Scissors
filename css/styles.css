@@ -8,6 +8,11 @@ body{
     margin: 0 auto;
 }
 
+.reset{
+    color: white;
+    margin-top: 2em;
+}
+
 button{ 
     background-color: black;
     border: 3px solid white;
